@@ -1,4 +1,4 @@
-## Nodejs-v16
+## Node.js-v16
 install Node.js to latest version
 
 ## How to use

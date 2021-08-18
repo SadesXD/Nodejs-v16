@@ -2,7 +2,7 @@
 install Node.js to latest version
 
 ## How to use
-See in this youtube video, (Glitch, Repl, Windows 7) [Soon]()
+See in this youtube video, (Glitch, Repl, Windows 7) [https://youtu.be/AmK_USGJASs](https://youtu.be/AmK_USGJASs)
 
 ## Credit
 - Node: [https://npmjs.com/package/node](https://npmjs.com/package/node)
